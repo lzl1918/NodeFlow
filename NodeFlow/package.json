@@ -1,0 +1,9 @@
+{
+  "name": "pipeline",
+  "version": "0.0.0",
+  "description": "Pipeline",
+  "main": "app.js",
+  "author": {
+    "name": "lzl19"
+  }
+}
